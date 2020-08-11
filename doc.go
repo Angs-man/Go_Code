@@ -6,5 +6,5 @@ pro2 document
 package main
 
 func main(){
-    fmt.Println("啦啦啦啦啦")
+    fmt.Println("哈哈哈哈哈哈")
 }
